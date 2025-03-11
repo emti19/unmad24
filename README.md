@@ -4,8 +4,7 @@
 
 - My industry experience:  **NodeJS(NestJS)**, **ReactJS(With Redux), Bootstrap5, Tailwind CSS, TypeScript, TypeORM, MySQL**
 - Built 15+ **Bootstrap5** and **Tailwind** tamplate with **ReactJS**
-- I’m currently learning **Transformers** and **Deep Neural Network**
-- br/>
+- I’m currently learning **Transformers** and **Deep Neural Network** <br/>
 
 **Research** **interest**: Natural Language Processing, SDLC, Machine Learning Software Development and Deep Learning.
 - My published research paper on **NLP and Deep Learning** : A deep learning approach to detect plagiarism in Bangla texual content using similarity algorithms.
