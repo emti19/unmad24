@@ -1,4 +1,5 @@
 ## Hey there 👋
+ ![](https://komarev.com/ghpvc/?username=emti19&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ### I am noob ACM problem solver. <br/><br/>Now working as an Assistant Programmer at International Islamic University Chittagong. Previously worked as a **Software Engineer** at SoftBD Ltd. Dhaka, Bangladesh. Have experience in JavaScript library **ReactJS**(with Redux), **Bootstrap5** and **Tailwind CSS** to convert psd/figma designs into pixel-perfect websites and backend development using Express and NestJS  and TypeScript.
 
